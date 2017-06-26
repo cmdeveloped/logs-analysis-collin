@@ -1,4 +1,5 @@
-﻿Hello again! My name is Collin, and this is my Single Query Logs Analysis Project using Python and PostgreSQL.
+# Udacity Logs Analysis! 
+My name is Collin, and this is my Single Query Logs Analysis Project using Python and PostgreSQL.
 
 
 This was definitely a challenge due to having no previous database experience, but I have managed to create an internal reporting tool to answer 3 questions given by Udacity.
